@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Praveen Thiyagarayam](mailto:praveen.thiyagarayam@owasp.org)
+* [Abisheik Magesh](mailto:abisheik.magesh@owasp.org)
