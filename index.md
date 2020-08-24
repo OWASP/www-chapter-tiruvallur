@@ -13,7 +13,7 @@ region: Asia
 
 <img src="assets/images/owasptt.png"/>
 
-OWASP Tiruvallur was founded in Aug, 2020. In the following days, our Tiruvallur Chapter has planned to conduct numerous Meetups, Webinars and Conferences. All these confereneces are open meets where everyone can join and share their knowledge in the Security domain. Our Chapter colloborates with the security community and contributes for Secure Application Development Projects and Network Strategies.
+OWASP Tiruvallur was founded in Aug, 2020. In the following days, our Tiruvallur Chapter has planned to conduct numerous Meetups and Webinars. All these events are open meets where everyone can join and share their knowledge in the Security domain. Our Chapter collaborates with the security community and contributes for Secure Application Development Projects and Network Strategies.
 
 OWASP provides speakers to Institution of Engineers for Wednesday technical talks related to application security they organize. OWASP also provides speakers to Computer Society of India for technical sessions related to application security they organize.
 
