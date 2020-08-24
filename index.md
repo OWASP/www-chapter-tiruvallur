@@ -41,10 +41,38 @@ Would you like to speak on the upcoming OWASP Coimbatore Webinar? [Contact Us](m
     - Name / Title of the Presentation
     - Abstract of the presentation
     - Presentation time required
-    
+
 ## Local News
 - Meeting Location
 - Everyone is welcome to join us at our chapter meetings.
+
+## Follow Us
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<!-- display the social media buttons in your README -->
+
+[![alt text][1]][1]
+[![alt text][2]][2]
+[![alt text][3]][3]
+
+<!-- icons with padding -->
+
+[1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.twitter.com/
+[2]: http://www.facebook.com/
+[3]: http://www.github.com/www-chapter-tiruvallur
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+
+
 
 <!--<div style='color:red;'>
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
