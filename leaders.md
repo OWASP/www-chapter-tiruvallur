@@ -9,5 +9,5 @@
 * [Subha Ilamathy](mailto:)
 
 ### Digital Partners
-1. Twintech Solutions
-2. Razz Security
+* [Twintech Solutions](https://www.twintechsolution.com/)
+* [Razz Security](https://razzsecurity.com/)
