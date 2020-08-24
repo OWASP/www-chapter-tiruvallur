@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Tiruvallur
 tags: Tiruvallur OWASP Chapter India
-level: 4
+level: 1
 region: Asia
 
 ---
@@ -51,7 +51,7 @@ Would you like to speak on the upcoming OWASP Tiruvallur Webinar? [Contact Us](m
 [1] [Twitter](http://www.twitter.com/)
 [2] [Facebook](http://www.facebook.com/)
 [3] [Slack](https://owasp.slack.com/)
-[4] [Github](http://www.github.com/www-chapter-tiruvallur)
+[4] [Github](https://github.com/OWASP/www-chapter-tiruvallur/)
 
 
 
