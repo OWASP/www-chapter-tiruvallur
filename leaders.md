@@ -7,3 +7,7 @@
 * [Kishore](mailto:)
 * [Madhu Anand](mailto:)
 * [Subha Ilamathy](mailto:)
+
+### Digital Partners
+1. Twintech Solutions
+2. Razz Security
