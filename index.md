@@ -48,28 +48,10 @@ Would you like to speak on the upcoming OWASP Coimbatore Webinar? [Contact Us](m
 
 ## Follow Us
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-
-[![alt text][1]][1]
-[![alt text][2]][2]
-[![alt text][3]][3]
-
-<!-- icons with padding -->
-
-[1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.twitter.com/
-[2]: http://www.facebook.com/
-[3]: http://www.github.com/www-chapter-tiruvallur
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+[1] [Twitter](http://www.twitter.com/)
+[2] [Facebook](http://www.facebook.com/)
+[3] [Slack](https://owasp.slack.com/)
+[4] [Github](http://www.github.com/www-chapter-tiruvallur)
 
 
 
