@@ -8,6 +8,9 @@
 * [Madhu Anand](mailto:)
 * [Subha Ilamathy](mailto:)
 
+### Technical Team
+* [Venkatraman K](https://r3dw0lfsec.in/)
+
 ### Digital Partners
 * [Twintech Solutions](https://www.twintechsolution.com/)
 * [Razz Security](https://razzsecurity.com/)
