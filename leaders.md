@@ -4,7 +4,7 @@
 
 ### Core Team
 * [Baskaran](mailto:)
-* [Kishore](mailto:)
+* [Kishore Hariram](mailto:)
 * [Madhu Anand](mailto:)
 * [Subha Ilamathy](mailto:)
 
