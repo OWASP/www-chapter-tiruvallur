@@ -15,7 +15,5 @@
 * [Venkatraman K](https://r3dw0lfsec.in/)
 * [Mukhilan Pari](https://mukhilan.com/)
 
-### Digital Partners
-* [Twintech Solutions](https://www.twintechsolution.com/)
-* [Razz Security](https://razzsecurity.com/)
+
 
