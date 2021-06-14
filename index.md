@@ -5,6 +5,7 @@ title: OWASP Tiruvallur
 tags: Tiruvallur OWASP Chapter India
 level: 1
 region: Asia
+meetup-group: Tiruvallur-OWASP-Meetup-Group
 
 ---
 
@@ -16,6 +17,14 @@ region: Asia
 OWASP Tiruvallur was founded in Aug, 2020. In the following days, our Tiruvallur Chapter has planned to conduct numerous Meetups and Webinars. All these events are open meets where everyone can join and share their knowledge in the Security domain. Our Chapter collaborates with the security community and contributes for Secure Application Development Projects and Network Strategies.
 
 OWASP provides speakers to Institution of Engineers for Wednesday technical talks related to application security they organize. OWASP also provides speakers to Computer Society of India for technical sessions related to application security they organize.
+
+### Upcoming Meetings
+
+We schedule our meetings on the [OWASP Tiruvallur Meetup Group](https://www.meetup.com/Tiruvallur-OWASP-Meetup-Group/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ## Participation
 
