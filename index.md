@@ -28,6 +28,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 We schedule our meetings on the [OWASP Tiruvallur Meetup Group](https://www.meetup.com/Tiruvallur-OWASP-Meetup-Group/)
 
+Follow us on Twitter to know about more upcoming events and instant updates
+
 {% include chapter_events.html group=page.meetup-group %}
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
