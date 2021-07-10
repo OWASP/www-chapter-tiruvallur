@@ -11,6 +11,6 @@ tags: Tiruvallur OWASP Chapter India
 
 ### Getting Started in Cyber Security
 
-<img src="assets/images/getting_started_in_cyber_security.png" width="400" height="400">
+<img src="assets/images/getting_started_in_cyber_security.jpg" width="400" height="400">
 
 ## Past Events
