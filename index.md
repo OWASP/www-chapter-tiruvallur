@@ -55,13 +55,6 @@ Would you like to speak on the upcoming OWASP Tiruvallur Webinar? [Contact Us](m
 - Meeting Location
 - Everyone is welcome to join us at our chapter meetings.
 
-## Follow Us
-
-[1] [Twitter](http://www.twitter.com/)
-[2] [Facebook](http://www.facebook.com/)
-[3] [Slack](https://owasp.slack.com/)
-[4] [Github](https://github.com/OWASP/www-chapter-tiruvallur/)
-
 
 
 
