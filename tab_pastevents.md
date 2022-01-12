@@ -15,7 +15,7 @@ tags: Tiruvallur OWASP Chapter India
 
 ### Landing In Your First InfoSec Job - Sunday, December 12 - 4:00 PM to 5:00 PM (IST)
 
-<img src="assets/images/getting_started_in_cyber_security.jpg" width="400" height="400">
+<img src="assets/images/VengNJ.jpg" width="400" height="400">
 
 ### Getting Started in Cyber Security - Sunday, July 11 - 4:00 PM to 5:00 PM (IST)
 
