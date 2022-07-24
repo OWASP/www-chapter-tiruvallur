@@ -13,6 +13,10 @@ tags: Tiruvallur OWASP Chapter India
 
 ## Past Events
 
+### DOM Based Vulnerabilities - Sunday, June 12 - 4:00 PM to 5:00 PM (IST)
+
+<img src="" width="400" height="400">
+
 ### Landing In Your First InfoSec Job - Sunday, December 12 - 4:00 PM to 5:00 PM (IST)
 
 <img src="assets/images/VengNJ.jpg" width="400" height="400">
