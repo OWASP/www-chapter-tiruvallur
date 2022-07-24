@@ -7,7 +7,7 @@
 ### Core Team
 * [Baskaran](mailto:)
 * [Kishore Hariram](mailto:)
-* [Madhu Anand](mailto:)
+* [Gabriela Sharon](mailto:)
 
 ### Technical Team
 
