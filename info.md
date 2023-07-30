@@ -7,6 +7,7 @@
 ### Core Team
 * [Baskaran](mailto:)
 * [Kishore Hariram](mailto:)
+* [Hari Krishnan K](mailto:)
 
 ### Technical Team
 
